@@ -1,2 +1,2 @@
 # Analiza-i-Przetwarzanie-Danych
-Zadanie zaliczeniowe
+Model testujący dla zagadnień dotyczących text mainiungu
